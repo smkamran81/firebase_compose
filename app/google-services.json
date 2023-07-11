@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812072433933",
+    "project_id": "demotvapp-bed2f",
+    "storage_bucket": "demotvapp-bed2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812072433933:android:3e78fe8c46e4b6d4941844",
+        "android_client_info": {
+          "package_name": "com.germantv.demotvapp20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812072433933-k28tbe522ap8ku3thcp08civntssl0kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKku8BhjSxdmgO-32zKaL6hrAvCbYjFnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812072433933-k28tbe522ap8ku3thcp08civntssl0kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
